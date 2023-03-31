@@ -1,4 +1,4 @@
-<!roottype html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -38,12 +38,5 @@
     </tr>
   </tbody>
 </table>
- <form>
-  <div class="mb-3">
-    <label for="Inputname" class="form-label">name</label>
-    <input type="name" class="form-control" id="exampleInputname" aria-describedby="emailHelp">
-    <div id="NameHelp" class="form-text">We'll never share your name with anyone else.</div>
-  <button type="submit" class="btn btn-primary">Submit</button>
-</form>
  </body>
 </html>
